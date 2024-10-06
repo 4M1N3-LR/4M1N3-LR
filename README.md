@@ -58,7 +58,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Bursuite](https://img.shields.io/badge/-Burpsuite-222222?style=flat-square&logo=burpsuite)
-![Photoshop](https://img.shields.io/badge/Photoshop-222222?logo=adobephotoshop&amp;logoColor=000000&amp;style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-36454F?logo=adobephotoshop&amp;logoColor=000000&amp;style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-222?&logo=notion&labelColor=000000)
 
     
