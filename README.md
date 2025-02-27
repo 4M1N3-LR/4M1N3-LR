@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/amine-lachegur" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Amine Lachegur" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/amiiine._.lr/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="amiiine._.lr" height="30" width="40" /></a>
   <a href="https://tryhackme.com/p/4M1N3.EXE" target="blank"><img align="center"
       src="https://assets.tryhackme.com/img/logo/THMlogo-gray_scale.png"
       alt="4M1N3.EXE" height="30" width="40" /></a>
